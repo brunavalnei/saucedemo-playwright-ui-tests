@@ -1,0 +1,27 @@
+{
+  "name": "saucedemo-playwright-ui-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados UI com Playwright no SauceDemo",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "allure:clean": "node -e \"const fs=require('fs'); ['allure-results','allure-report'].forEach(p=>fs.rmSync(p,{recursive:true,force:true}))\"",
+    "allure:generate": "npx allure generate allure-results --clean -o allure-report",
+    "allure:open": "npx allure open allure-report",
+    "test:allure": "npx playwright test && npm run allure:generate && npm run allure:open",
+    "test:allure:clean": "npm run allure:clean && npx playwright test && npm run allure:generate && npm run allure:open"
+  },
+  "keywords": [],
+  "author": "Bruna Valnei",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "allure-commandline": "^2.41.0",
+    "allure-playwright": "^3.8.0"
+  }
+}

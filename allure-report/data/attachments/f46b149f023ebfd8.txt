@@ -1,0 +1,2 @@
+Iniciando teste do usuário: locked_out_user
+Mensagem de bloqueio validada com sucesso

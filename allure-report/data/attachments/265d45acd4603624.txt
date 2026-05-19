@@ -1,0 +1,2 @@
+Iniciando teste do usuário: error_user
+Login realizado com sucesso em 252ms

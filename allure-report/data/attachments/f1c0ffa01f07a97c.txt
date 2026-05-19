@@ -1,0 +1,2 @@
+Iniciando teste do usuário: visual_user
+Login realizado com sucesso em 211ms
