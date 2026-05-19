@@ -1,0 +1,2 @@
+Iniciando teste do usuário: performance_glitch_user
+Tempo de login do usuário lento: 5186ms

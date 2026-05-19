@@ -38,3 +38,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+
+evidences/screenshots/*
+!evidences/screenshots/.gitkeep

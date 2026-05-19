@@ -1,0 +1,20 @@
+Realizando login
+Login realizado com sucesso
+Selecionando ordenação Z-A
+Produtos exibidos: [
+  'Test.allTheThings() T-Shirt (Red)',
+  'Sauce Labs Onesie',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Bike Light',
+  'Sauce Labs Backpack'
+]
+Produtos esperados: [
+  'Test.allTheThings() T-Shirt (Red)',
+  'Sauce Labs Onesie',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Bike Light',
+  'Sauce Labs Backpack'
+]
+Ordenação Z-A validada com sucesso
