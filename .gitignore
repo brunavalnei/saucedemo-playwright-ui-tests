@@ -40,5 +40,9 @@ Thumbs.db
 .idea/
 
 
+# Evidences
+evidences/*
+!evidences/.gitkeep
+!evidences/screenshots/
 evidences/screenshots/*
 !evidences/screenshots/.gitkeep
