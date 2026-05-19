@@ -1,6 +1,0 @@
-Realizando login
-Login realizado com sucesso
-Selecionando ordenação menor preço para maior
-Preços exibidos: [ 7.99, 9.99, 15.99, 15.99, 29.99, 49.99 ]
-Preços esperados: [ 7.99, 9.99, 15.99, 15.99, 29.99, 49.99 ]
-Ordenação menor para maior validada com sucesso
