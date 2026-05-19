@@ -1,0 +1,13 @@
+Dados gerados:
+First Name: Bruna61864
+Last Name: QA61864
+ZIP Code: 80272
+Acessando SauceDemo
+Login realizado com sucesso
+Adicionando produto ao carrinho
+Acessando carrinho
+Iniciando checkout
+Preenchendo dados do checkout
+Continuando checkout
+Finalizando compra
+Mensagem final validada com sucesso
